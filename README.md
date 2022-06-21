@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Kevinjohn
+- 👀 I’m interested in exploring Fractional as the future of freelancing. 
+- 📫 How to reach me on LinkedIn: Https://Linkedin.com/in/KevinjohnGallagher
