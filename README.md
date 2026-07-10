@@ -18,6 +18,7 @@ Who could have predicted that!
 I'd be grateful if you could act suitably impressed.
 
 | | | | | |
+|---|---|---|---|---|
 | Eurovision Song Contest | Coca-Cola | Google | Facebook | BT |
 | BBC | AT&T | BP | Accenture | Burberry |
 | Salesforce | Vodafone | Microsoft | MTV | World Health Organisation |
