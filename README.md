@@ -1,6 +1,4 @@
-# Kevinjohn Gallagher
-
-**World class digital delivery, without the drama.**
+# World class digital delivery, without the drama.
 
 ---
 
