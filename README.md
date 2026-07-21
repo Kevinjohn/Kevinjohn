@@ -10,9 +10,9 @@ TPM / EM returning to open source development.
 
 | | | | | |
 |---|---|---|---|---|
-| Eurovision Song Contest | Coca-Cola | Google | Facebook | McKinsey |
+| Microsoft | Coca-Cola | Google | Facebook | McKinsey |
 | BBC | Adobe | BP | Accenture | Burberry |
-| Salesforce | Cisco | Microsoft | PwC | AOL |
+| Salesforce | Cisco | AOL | PwC | Eurovision Song Contest |
 
 ### Contact
 
