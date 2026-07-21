@@ -1,12 +1,12 @@
 # Forward Deployed Delivery
 
-TPM / EM returning to open source development.
+Technical Programme Manager returning to open source development.
 
 30 years experience leading multi-disciplinary teams across digital, tech, product, and transformation.
 
 ---
 
-## Clients
+## Notable Clients
 
 | | | | | |
 |---|---|---|---|---|
